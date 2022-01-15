@@ -1,7 +1,5 @@
 - 👋 Hi, I’m Shreyash
-- 👀 I’m interested programming
 - 🌱 I’m currently python
-- 💞️ I’m looking to collaborate on c
 - 📫 message me here 
 
 <!---
