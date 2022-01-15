@@ -1,5 +1,5 @@
 - 👋 Hi, I’m Shreyash
-- 🌱 I’m currently python
+- 🌱 I’m currently learning java & HTML/CSS
 - 📫 message me here 
 
 <!---
